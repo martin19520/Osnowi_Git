@@ -1,0 +1,7 @@
+git add sample.txt
+
+# Направете комит със съобщение
+git commit -m "Добавен текстов файл с 10 произволни символа"
+
+# Изпратете промените в Master Branch на GitHub
+git push origin master
