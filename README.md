@@ -1,0 +1,2 @@
+# Osnowi_Git
+.
